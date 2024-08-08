@@ -142,7 +142,7 @@ Swagger UI'ye erişmek için tarayıcınızda şu adresi ziyaret edin:
 
 ## Modelin Çıktısı:
 
-
+![hugging](https://github.com/user-attachments/assets/91416d35-043f-477e-a077-e2d6009f36f6)
 
 ## Lisans
 Yarışma süresince geliştirilmiş kodlar, veri kümeleri ve diğer bileşenleri GitHub’da erişilebilir biçimde Açık Kaynak Apache lisansı ile [Lisans dosyası](https://github.com/T-NLP/t-nlp/blob/main/LICENSE) adı altında paylaşıyoruz. 
