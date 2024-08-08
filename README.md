@@ -65,6 +65,12 @@ Bu çalışmada kullanılan veri setleri, farklı platformlardan toplanmıştır
 |---|---|
 |turkcell_sikayetvar.xlsx|600|
 
+
+**Veri Setlerini Toplarken Kullanılan Kodlar:**
+* [Ekşi Sözlük](https://github.com/zeynepbaydemir/eksi-sozluk-veri-cekme)
+* [Twitter](https://github.com/kbrars/Selenium-Twitter-Tweet-Scraper)
+
+
 ## NLP Modelleri: BERT, DistilBERT ve Electra
 
 Bu depo, BERT, DistilBERT ve Electra gibi popüler NLP modellerinin ince ayar (fine-tuning) ve değerlendirme süreçlerini içeren Jupyter Notebook dosyalarını içerir. Her bir notebook, ilgili modelin yüklenmesi, eğitimi ve değerlendirilmesi adımlarını göstermektedir.
