@@ -14,7 +14,7 @@ Teknofest 2024 Türkçe Doğal Dil İşleme Yarışması için oluşturulmuştur
 ## Takım üyeleri:
 - Gülzade Evni  **Github:** [GülzadeEvni](https://github.com/GulzadeEvni)
 - Zeynep Baydemir  **Github:** [zeynepbaydemir](https://github.com/zeynepbaydemir)
-- Kübra Arslan **Github:** [kbrars](https://github.com/kbrars),
+- Kübra Arslan **Github:** [kbrars](https://github.com/kbrars)
 
 ## Veri Setleri:
 Çalışma boyunca toplam **50.845** veri çekilmiştir.
@@ -90,7 +90,7 @@ Bu depo, BERT, DistilBERT ve Electra gibi popüler NLP modellerinin ince ayar (f
 - **Model:** Electra (Efficiently Learning an Encoder that Classifies Token Replacements Accurately)
 
 
-**Model için : **
+**Model için :**
 * [distilBERT](https://huggingface.co/Gulzd/distilBERTT)
 * [BERT](https://huggingface.co/Gulzd/Bert)
 * [Electra](https://huggingface.co/Gulzd/electra)
