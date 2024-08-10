@@ -4,6 +4,9 @@
 
 Bu yarışma, katılımcılardan geniş bir yelpazedeki firmalar veya kurumlar tarafından sağlanan müşteri geri bildirimlerini analiz etmelerini ve bu yorumlardaki duyguları belirli hizmet yönleri veya ürün özelliklerine göre sınıflandırmalarını istemektedir.
 
+- Sunum dosyası için: [Sunum](https://github.com/T-NLP/t-nlp/blob/main/teknofest_sunum.pdf)
+- Youtube linki için: [Buraya Tıkla!](https://www.youtube.com/watch?v=1DegOrx07wE)
+
 ## Görev:
 Katılımcılar, verilen müşteri yorumlarını öncelikle ilgili entity'e (varlık) göre sıralamalı, ardından bu entity'lerin sunduğu hizmetler veya ürünlerle ilgili yorumlardaki duyguları (olumlu, olumsuz veya nötr) belirlemelidir.
 
